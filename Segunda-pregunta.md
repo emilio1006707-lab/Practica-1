@@ -1,4 +1,4 @@
-#¿Cómo se determina si un yacimiento petrolero es comercialmente explotable? 
+# ¿Cómo se determina si un yacimiento petrolero es comercialmente explotable? 
 Un yacimiento petrolero es comercialmente explotable cuando 
 se extraer el petróleo genera más dinero del que cuesta producirlo, 
 considerando el tiempo y el riesgo.
@@ -10,3 +10,4 @@ En términos simples, se analizan tres cosas:
 
 Para decidirlo se hacen análisis financieros como el Valor Presente Neto (VPN) y la Tasa Interna de Retorno (TIR).
 Si el proyecto deja utilidad y cumple la rentabilidad mínima esperada, entonces se considera explotable.
+![Yacimiento](imagenes/yacimiento)
