@@ -5,7 +5,9 @@ considerando el tiempo y el riesgo.
 En términos simples, se analizan tres cosas:
 
 1️ Cuánto petróleo hay realmente y cuánto se puede recuperar.
+
 2️ Si es técnicamente posible extraerlo (profundidad, tipo de roca, tecnología necesaria).
+
 3️ Si es rentable, es decir, si los ingresos esperados por la venta del petróleo superan los costos de exploración, perforación, operación e impuestos.
 
 Para decidirlo se hacen análisis financieros como el Valor Presente Neto (VPN) y la Tasa Interna de Retorno (TIR).
