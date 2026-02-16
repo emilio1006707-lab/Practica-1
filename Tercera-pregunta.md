@@ -4,4 +4,4 @@ Por ejemplo, con una iluminación natural se mejora el estado de animo y la conc
 puede haber dolores de cabeza o cansancio.
 Otro ejemplo claro puede ser el exceso de rudio que afecta la concentración.
 
-![Espacio](imagenes/espacio de trabajo.webp)
+![Espacio](imagenes/espaciodetrabajo.webp)
