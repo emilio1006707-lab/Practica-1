@@ -9,4 +9,6 @@ La geología tambien permite evitar la vulnerabilidad a la contaminación de los
 Por ejemplo: 
 Si el acuífero está cubierto por una capa impermeable tiene mayor protección natural.
 Si el suelo es muy permeable hay mayor riesgo de que contaminantes lleguen al agua
+
+
 ![acuifero](imagenes/acuiferos.webp)
