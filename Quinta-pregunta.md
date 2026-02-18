@@ -6,4 +6,5 @@ Su ventaja es que es de alta potencia, diseño simple, mas varato y fácil de al
 El combustible y el oxidante están en tanques separados en estado líquido. 
 Se bombean a la cámara de combustión donde reaccionan.
 Su ventaja es que tienen mayor control, es mas eficiente, se puede regular el empuje y puede apagarse y reiniciarse, pero es un sistema mas complejo, tiene un mayor costo y es mas complejo.
+
 ![cohete](imagenes/combustion.JPG)
