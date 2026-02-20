@@ -12,3 +12,4 @@ La realidad era mucho más profunda y cambió para siempre la tecnología y la f
 Características de la computación en la nube:
 Autoservicio bajo demanda, amplio acceso a la red, Agrupación de recursos, rápida elasticidad, medición del servicio, etc.
 
+![nube](imagenes/nube.jpg)
