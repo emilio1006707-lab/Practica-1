@@ -13,3 +13,5 @@ Características de la computación en la nube:
 Autoservicio bajo demanda, amplio acceso a la red, Agrupación de recursos, rápida elasticidad, medición del servicio, etc.
 
 ![nube](imagenes/nube.jpg)
+
+Referencia: OpenAI. (2026). ChatGPT (modelo GPT-5.2) [Modelo de lenguaje]. https://chat.openai.com/
