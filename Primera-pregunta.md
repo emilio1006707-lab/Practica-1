@@ -9,3 +9,4 @@ Eso puede traducirse en llevar más carga, reducir costos o hacer la misión má
 Por eso muchos centros de lanzamiento se ubican lo más cerca posible del ecuador, porque ahí la propia Tierra se convierte en una aliada del lanzamiento.
 ![Ecuador](imagenes/ecuador.jpg)
 
+Referencia: OpenAI. (2026). ChatGPT (modelo GPT-5.2) [Modelo de lenguaje]. https://chat.openai.com/
