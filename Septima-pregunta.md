@@ -6,4 +6,4 @@ calcular costos y determinar la capacidad productiva; matemáticamente puede exp
 Tiempo estándar = Tiempo observado × Factor de desempeño + Suplementos. 
 Por su parte, el estudio de movimientos analiza cada acción física realizada en el proceso productivo con la finalidad de simplificar tareas, mejorar la ergonomía, disminuir el riesgo de lesiones y aumentar la seguridad.
 
-![Inyeccion](imagenes/Inyeccion-de-agua.png)  
+![Tiempo](imagenes/Tiempo.png)  
