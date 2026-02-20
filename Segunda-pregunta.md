@@ -14,3 +14,5 @@ Para decidirlo se hacen análisis financieros como el Valor Presente Neto (VPN) 
 Si el proyecto deja utilidad y cumple la rentabilidad mínima esperada, entonces se considera explotable.
 
 ![Yacimiento](imagenes/yacimiento.webp)
+
+Referencia: OpenAI. (2026). ChatGPT (modelo GPT-5.2) [Modelo de lenguaje]. https://chat.openai.com/
