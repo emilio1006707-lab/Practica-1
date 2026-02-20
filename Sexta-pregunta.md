@@ -5,6 +5,9 @@ se aplican métodos de recuperación secundaria para restituir presión y despla
 
 1. Inyección de agua
 Consiste en perforar pozos inyectores donde se introduce agua tratada para
-mantener la presión del yacimiento y para empujar el petroleo hacia los pozos productores
-![Inyeccion](imagenes/Inyeccion-de-agua.png)
+mantener la presión del yacimiento y para empujar el petroleo hacia los pozos productores.
+Su principal ventaja es que es de bajo costo
 
+2. Inyección de gas
+Se inyecta gas (natural, nitrogeno o dióxido de carbono) para aumentar la presión o mejorar el desplazamiento del crudo.
+![Inyeccion](imagenes/Inyeccion-de-agua.png)
