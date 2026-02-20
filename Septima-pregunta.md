@@ -7,3 +7,5 @@ Tiempo estándar = Tiempo observado × Factor de desempeño + Suplementos.
 Por su parte, el estudio de movimientos analiza cada acción física realizada en el proceso productivo con la finalidad de simplificar tareas, mejorar la ergonomía, disminuir el riesgo de lesiones y aumentar la seguridad.
 
 ![Tiempo](imagenes/tiempo.png)  
+
+Referencia: OpenAI. (2026). ChatGPT (modelo GPT-5.2) [Modelo de lenguaje]. https://chat.openai.com/
