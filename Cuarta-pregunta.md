@@ -12,3 +12,5 @@ Si el suelo es muy permeable hay mayor riesgo de que contaminantes lleguen al ag
 
 
 ![acuifero](imagenes/acuiferos.webp)
+
+Referencia: OpenAI. (2026). ChatGPT (modelo GPT-5.2) [Modelo de lenguaje]. https://chat.openai.com/
