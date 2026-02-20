@@ -6,4 +6,5 @@ puede haber dolores de cabeza o cansancio.
 Otro ejemplo claro puede ser el exceso de rudio que afecta la concentración.
 
 ![Espacio](imagenes/espaciodetrabajo.webp)
+
 Referencia:https://www.linkedin.com/pulse/c%C3%B3mo-el-dise%C3%B1o-del-espacio-de-trabajo-influye-en-desempe%C3%B1o-zpdee/
