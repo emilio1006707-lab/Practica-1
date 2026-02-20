@@ -14,3 +14,5 @@ Su principal ventaja es que es de bajo costo
 Se inyecta gas (natural, nitrogeno o dióxido de carbono) para aumentar la presión o mejorar el desplazamiento del crudo.
 
 ![Gas](imagenes/Gas.jpg)  
+
+Referencia: OpenAI. (2026). ChatGPT (modelo GPT-5.2) [Modelo de lenguaje]. https://chat.openai.com/
