@@ -8,3 +8,5 @@ Se bombean a la cámara de combustión donde reaccionan.
 Su ventaja es que tienen mayor control, es mas eficiente, se puede regular el empuje y puede apagarse y reiniciarse, pero es un sistema mas complejo, tiene un mayor costo y es mas complejo.
 
 ![cohete](imagenes/combustion.JPG)
+
+Referencia: OpenAI. (2026). ChatGPT (modelo GPT-5.2) [Modelo de lenguaje]. https://chat.openai.com/
