@@ -10,7 +10,7 @@ Su principal ventaja es que es de bajo costo
 
 ![Inyeccion](imagenes/Inyeccion-de-agua.png)  
 
-3. Inyección de gas
+2. Inyección de gas
 Se inyecta gas (natural, nitrogeno o dióxido de carbono) para aumentar la presión o mejorar el desplazamiento del crudo.
 
 ![Gas](imagenes/Gas.jpg)  
